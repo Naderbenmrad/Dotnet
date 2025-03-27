@@ -1,0 +1,6 @@
+@MBDPC3_Dotnet_HostAddress = http://localhost:5046
+
+GET {{MBDPC3_Dotnet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

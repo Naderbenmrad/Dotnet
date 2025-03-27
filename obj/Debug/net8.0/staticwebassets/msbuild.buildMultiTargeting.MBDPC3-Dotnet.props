@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MBDPC3-Dotnet.props" />
+</Project>
